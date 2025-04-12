@@ -4,12 +4,13 @@ A collection of typefaces designed by me. Everything is work in progress, dont j
 
 ## Typefaces
 
-### Navajo
-![Navajo](navajo/navajo-hello.jpg)
-[Navajo](navajo/) - Revival of a sign on a shop window in The Hague
+### Haye
+![Haye](haye/haye-hello.jpg)
+[Haye](haye/) - Experimental modular typeface drawing inspiration from arabesque and grotesque elements
+
 
 ### 5xN
-![5×N](5x10-hello.jpg)
+![5×N](5×N/5x10-hello.jpg)
 [5×N](5xN/) - Fix for default ST7032-0D typeface
 
 
@@ -23,14 +24,14 @@ A collection of typefaces designed by me. Everything is work in progress, dont j
 [Todidel](todidel/) - An expansion typeface inspired by Didot with a reversed name
 
 
+### Navajo
+![Navajo](navajo/navajo-hello.jpg)
+[Navajo](navajo/) - Revival of a sign on a shop window in The Hague
+
+
 ### Wooper
 ![Wooper](wooper/wooper-hello.jpg)
 [Wooper](wooper/) - Fast food inspired typeface with bold, rounded forms. Dont take this one seriously
-
-
-### Haye
-![Haye](haye/haye-hello.jpg)
-[Haye](haye/) - Experimental modular typeface fusing arabesque and grotesque elements
 
 
 
