@@ -10,7 +10,7 @@ A collection of typefaces designed by me. Everything is work in progress, dont j
 
 
 ### 5xN
-![5×N](5×N/5x10-hello.jpg)
+![5×N](5xN/5x10-hello.jpg)
 [5×N](5xN/) - Fix for default ST7032-0D typeface
 
 
