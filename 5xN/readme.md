@@ -1,7 +1,5 @@
 # 5×N
 
-![5xN Sample](5xN-hello.jpg)
-
 A custom fix for the ST7032-0D typeface. This font addresses font issue with letter `g` ![5xN Sample](problem.jpg), adding a distinctive 5×N character feel
 
 ## Variants

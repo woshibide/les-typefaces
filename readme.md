@@ -4,9 +4,21 @@ A collection of typefaces designed by me. Everything is work in progress, dont j
 
 ## Typefaces
 
-- [Navajo](navajo/) - Revival of a quirky monospaced font from a shop window in The Hague
-- [5×N](5xN/) - Fix for ST7032-0D typeface
+- ![Navajo](navajo/navajo-hello.jpg)
+  [Navajo](navajo/) - Revival of a sign on a shop window in The Hague
+- ![5×N](5xN/5xN-hello.jpg)
+  [5×N](5xN/) - Fix for default ST7032-0D typeface
+- ![Axelent](axelent/axelent-hello.jpg)
+  [Axelent](axelent/) - A "translation" typeface featuring brutal cuts for display usage
+- ![Todidel](todidel/todidel-hello.jpg)
+  [Todidel](todidel/) - An expansion typeface inspired by Didot with a reversed name
+- ![Wooper](wooper/wooper-hello.jpg)
+  [Wooper](wooper/) - Fast food inspired typeface with bold, rounded forms
+- ![Haye](haye/haye-hello.jpg)
+  [Haye](haye/) - Experimental modular typeface fusing arabesque and grotesque elements
 
 ## License
 
 All this is licensed under the terms of the [DWTFYWTPL](https://en.wikipedia.org/wiki/WTFPL)
+
+<!-- all typefaces are still under development -->
