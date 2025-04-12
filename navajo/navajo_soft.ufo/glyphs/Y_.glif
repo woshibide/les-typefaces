@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="500"/>
+  <unicode hex="0059"/>
+  <outline>
+    <component base="comp_square" yOffset="396"/>
+    <component base="comp_square" yOffset="297"/>
+    <component base="comp_square" xOffset="99" yOffset="297"/>
+    <component base="comp_square" xOffset="99" yOffset="198"/>
+    <component base="comp_square" xOffset="198" yOffset="198"/>
+    <component base="comp_square" xOffset="297" yOffset="198"/>
+    <component base="comp_square" xOffset="297" yOffset="396"/>
+    <component base="comp_square" xOffset="297" yOffset="297"/>
+    <component base="comp_square" xOffset="198" yOffset="99"/>
+    <component base="comp_square" xOffset="198"/>
+    <component base="comp_square" xOffset="99"/>
+  </outline>
+</glyph>
